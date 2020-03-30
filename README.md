@@ -26,3 +26,8 @@ Or just move them into your "Config" folder and replace the character names in e
 Only put your characters in the files. If there is more than 1 online at the same time, will make the script pick the first character in the list.
 
 Feel free to take a look at the script "StreamerPS2Online_StreamlabsCommand.py", however if you make a change dont come and say its not working. Ill galdly help fix or improve it^^
+
+
+
+#### Wanna support my work?                                                    
+[![Become a Patron!](https://i.imgur.com/BbE01dL.png)](https://www.patreon.com/bePatron?u=31657981)
