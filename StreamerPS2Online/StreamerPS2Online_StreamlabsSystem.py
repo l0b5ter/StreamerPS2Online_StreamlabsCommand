@@ -30,8 +30,10 @@ Version = "1.0.0.0"
 global Factions
 global baseapi 
 global Playername
+global Command
 baseapi = "https://census.daybreakgames.com/s:lobster/get/ps2:v2/"
 Factions = ["nc", "tr", "vs"]
+Command = "ign"
 
 #---------------------------
 #   [Required] Initialize Data (Only called on load)
@@ -47,7 +49,7 @@ def Init():
 #   [Required] Execute Data / Process messages
 #---------------------------
 def Execute(data):
-    if data.IsChatMessage() and data.GetParam(0).lower() == "stats": 
+    if data.IsChatMessage() and data.GetParam(0).lower() == Command: 
         for x in Factions:
             OnlineWho = PlayerLoopUp(x)
             if OnlineWho != "":
