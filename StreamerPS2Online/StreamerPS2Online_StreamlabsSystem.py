@@ -19,7 +19,7 @@ from Settings_Module import MySettings
 #---------------------------
 ScriptName = "StreamerPS2Online"
 Website = "https://github.com/l0b5ter/StreamerPS2Online_StreamlabsCommand"
-Description = "Chat can now control your keyboard!"
+Description = "Playing as ..."
 Creator = "lobster/loster31345"
 Version = "1.0.0.0"
 
