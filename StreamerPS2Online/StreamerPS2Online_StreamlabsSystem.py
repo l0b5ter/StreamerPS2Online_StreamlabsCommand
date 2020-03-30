@@ -53,7 +53,7 @@ def Execute(data):
         for x in Factions:
             OnlineWho = PlayerLoopUp(x)
             if OnlineWho != "":
-                SendResp(data, "Online " + OnlineWho)
+                SendResp(data, "Streamer is playing as " + OnlineWho)
                 return
     return
 
