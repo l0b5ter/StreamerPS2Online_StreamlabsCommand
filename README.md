@@ -15,11 +15,11 @@ Made by: lobster/loster31345 from WiAD
 
 ## Instructions on how to get it up
 1. download .zip
-2. This folder is in a zip-file, so extract it and move the folder StreamerPS2Online
- into the streamlabs chat bot "Scripts" folder.
-3. Three files for each faction, look into the "Example" folder for example.
+2. Open the .zip folder.
+3. Three are files for each faction, look into the "Example" folder for example.
 Or just move them into your "Config" folder and replace the character names in each of them.
 4. Default command is "ign" (however if you wanna change this, open the "StreamerPS2Online_StreamlabsSystem.py" in a text editor like notepad++ and change the variable Command. ```Command = "ign"```)
+5. This folder is in a zip-file, so click on import in the streamlabs chat bot "Scripts" tab and select the .zip folder
 6. Yay you done mate, just reload the scripts and see the magic^^
 
 ## Notice:
